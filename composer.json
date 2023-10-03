@@ -1,0 +1,22 @@
+{
+  "name": "bruin/baidu-tongji",
+  "description": "lumen 百度统计集成包",
+  "keywords": [
+    "lumen",
+    "baidu-tongji"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bruin\\BaiduTongji\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "bruin"
+    }
+  ]
+}
